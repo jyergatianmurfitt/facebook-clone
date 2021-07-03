@@ -8,7 +8,6 @@ The purpose of building this homepage was to immitate the Facebook homepage usin
 <b>Built with</b>
 - [HTML]
 - [CSS]
-- [JS]
 
 ## Future changes/added functions
 1./ The functional elements of this webpage (e.g.the input sections on :active) will be developed to immitate those on the Facebook homepage.
